@@ -1,7 +1,7 @@
-<div align="left">
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomaZykov&theme=nightowl"/>
 </div>
-<div align="right">
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomaZykov&theme=nightowl"/>
 </div>
 
