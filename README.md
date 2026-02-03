@@ -3,7 +3,9 @@
 </div>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RomaZykov&theme=nightowl"/>
-  <img src="https://streak-stats.demolab.com?user=RomaZykov&theme=nightowl&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" />
+</div>
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=RomaZykov&theme=nightowl&hide_total_contributions=true)](https://git.io/streak-stats)
 </div>
 
 <!---
