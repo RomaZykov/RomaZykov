@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomaZykov&theme=nightowl"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomaZykov&theme=nightowl"  width="832"/>
 </div>
 <div align=center>
   
