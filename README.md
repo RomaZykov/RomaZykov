@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="">[![GitHub Streak](https://streak-stats.demolab.com?user=RomaZykov&theme=nightowl&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)</a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=RomaZykov&theme=nightowl&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
